@@ -1,0 +1,20 @@
+import sys
+import json
+import re
+
+M = "foward"
+R = "rigth"
+C = "dropchip"
+B = "placeballoon"
+c = "pickchip"
+b = "grabballoon"
+P = "popballoon"
+#J = "jump"
+#G = "position"
+
+ROBOT_R = "program"
+sc = ";"
+
+
+
+
